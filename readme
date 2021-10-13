@@ -1,0 +1,1 @@
+This project creates a random image generator, pulling data from teh Lorem Picsum API.  When the user clicks the button, a random image and the photographer details appear on the page.
